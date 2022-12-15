@@ -1,2 +1,2 @@
 # flexblog
- Projeto fictício para praticar
+ Projeto fictício para praticar flexbox
